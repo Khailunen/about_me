@@ -1,0 +1,61 @@
+.block {
+	display: inline;
+}
+
+img {
+	width: 350px;
+	height: 450px;
+	margin-top: 50px;
+	margin-right: 110px;
+}
+
+body {
+	padding-top: 0px;
+	padding-right: 200px;
+	padding-left: 200px;
+	background-image: linear-gradient(#f5f5f5, #ebf2d3, #9dc99d);
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+.post {
+	text-decoration: underline;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+td {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+h3 {
+	font-size: 20px;
+	font-style: italic;
+	color: #122222;
+	text-decoration: underline;	
+}
+
+.work {
+	color: #424242;
+}
+
+footer {
+	margin-top: 20px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+/*footer {
+	grid-row-start: 2;
+	grid-row-end: 3;
+}*/
